@@ -1,0 +1,11 @@
+Scope:
+  - keep let expression; explain with good examples in lecture
+  - avoid side effects
+  - write a type checker, provide it, but include bugs?
+  - more expression types?
+    - iterations over lists?  not useful unless we have side effects
+    
+  - ask students to define some primitives
+
+  - maybe a list type?  list-of-int, list-of-bool
+  - additional expresison type
